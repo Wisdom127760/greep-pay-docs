@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Greep Pay User Guide
+  structure:
+    - type: space
+      key: space-1
+      title: Greep Pay User Guide
+      path: how-to-greep-pay-user-tutorial-guide
+      default: true
+      content:
+        directory: ./how-to-greep-pay-user-tutorial-guide
+        language: en
