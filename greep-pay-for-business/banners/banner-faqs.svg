@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="FAQs">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00683F"/><stop offset="1" stop-color="#0D965E"/></linearGradient></defs>
+<rect width="1200" height="300" fill="url(#g)"/>
+<circle cx="1040" cy="40" r="170" fill="#ffffff" opacity="0.06"/>
+<text x="64" y="140" font-size="58" font-weight="800" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">FAQs</text>
+<text x="64" y="190" font-size="26" fill="#c8f3dd" font-family="Helvetica, Arial, sans-serif">Quick answers to common questions</text>
+<circle cx="1010" cy="150" r="90" fill="#c8f3dd"/><text x="1010" y="190" font-size="120" font-weight="800" text-anchor="middle" fill="#0b8153" font-family="Helvetica, Arial, sans-serif">?</text>
+</svg>

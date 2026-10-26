@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Developers">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00683F"/><stop offset="1" stop-color="#0D965E"/></linearGradient></defs>
+<rect width="1200" height="300" fill="url(#g)"/>
+<circle cx="1040" cy="40" r="170" fill="#ffffff" opacity="0.06"/>
+<text x="64" y="140" font-size="58" font-weight="800" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">Developers</text>
+<text x="64" y="190" font-size="26" fill="#c8f3dd" font-family="Helvetica, Arial, sans-serif">Connect your website or app to Greep Pay.</text>
+<path d="M960 110 L910 160 L960 210 M1060 110 L1110 160 L1060 210" stroke="#c8f3dd" stroke-width="20" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M1030 90 L990 230" stroke="#49DEA1" stroke-width="16" stroke-linecap="round"/>
+</svg>

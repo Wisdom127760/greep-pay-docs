@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Troubleshooting">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#00683F"/><stop offset="1" stop-color="#0D965E"/></linearGradient></defs>
+<rect width="1200" height="300" fill="url(#g)"/>
+<circle cx="1040" cy="40" r="170" fill="#ffffff" opacity="0.06"/>
+<text x="64" y="140" font-size="58" font-weight="800" fill="#ffffff" font-family="Helvetica, Arial, sans-serif">Troubleshooting</text>
+<text x="64" y="190" font-size="26" fill="#c8f3dd" font-family="Helvetica, Arial, sans-serif">Fix a missing payment or a link that won't work.</text>
+<circle cx="1010" cy="150" r="80" fill="none" stroke="#c8f3dd" stroke-width="22"/><path d="M1010 150 L1090 230" stroke="#49DEA1" stroke-width="22" stroke-linecap="round"/><circle cx="1010" cy="150" r="22" fill="#49DEA1"/>
+</svg>
