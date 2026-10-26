@@ -10,3 +10,10 @@ site:
       content:
         directory: ./how-to-greep-pay-user-tutorial-guide
         language: en
+    - type: space
+      key: space-business
+      title: Greep Pay for business
+      path: greep-pay-for-business
+      content:
+        directory: ./greep-pay-for-business
+        language: en
