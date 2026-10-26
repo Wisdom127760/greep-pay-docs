@@ -24,7 +24,7 @@ Use Greep Pay to manage your wallet, send or receive money, use a virtual card, 
 
 Use Greep Checkout to accept payments from customers across markets.
 
-[greep-checkout-for-businesses](greep-help-center/greep-checkout-for-businesses/ "mention")
+[Broken link](/broken/spaces/GriwHvtPTjcWwUAvgxnR/pages/EPVM28VTulRknw05qTFl "mention")
 
 ### Customer videos
 
